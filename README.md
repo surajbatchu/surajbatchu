@@ -1,89 +1,81 @@
-<!-- Profile README for surajbatchu -->
+<!-- Clean & Honest Profile README for surajbatchu -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00C4FF;">Suraj Batchu</span></h1>
+<h1 align="center">👋 Hi, I'm Suraj Batchu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;AI+%26+ML+Engineer;Tech+Explorer+%F0%9F%9A%80" alt="Typing Animation" />
+  💻 Java Developer (Fresher) | 🚀 Actively Learning & Building
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 I’m **Suraj Batchu**, a passionate **Software Developer** with a **B.Tech in Artificial Intelligence and Machine Learning**.  
-💻 I love building **end-to-end full-stack applications**, integrating **AI/ML models** with robust **backend systems**.  
-🚀 Always learning, always coding, always improving!
+🎓 I completed my **B.Tech in 2024**
+💻 I have knowledge of **Core Java, SQL, and Web Development basics**
+🌱 Currently improving my skills by building projects and practicing regularly
+🎯 Looking for opportunities to start my career as a **Java Developer**
 
 ---
 
-### 🧠 Skills & Technologies
+### 🧠 Skills
 
-#### 💻 Languages:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+#### 💻 Programming:
 
-#### 🌐 Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+* Core Java
+* JavaScript (Basics)
 
-#### ⚙️ Backend & Databases:
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+#### 🌐 Web Development:
 
-#### 🤖 AI/ML Tools:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+* HTML
+* CSS
 
-#### 🛠️ Other Tools:
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 🗄️ Databases:
+
+* SQL
+* MongoDB
+
+#### 🛠️ Tools:
+
+* Git & GitHub
+* VS Code
+* Eclipse
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajbatchu&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbatchu&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surajbatchu&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbatchu&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 ---
 
-### 🌀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajbatchu&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+### 🌱 Current Focus
+
+* Strengthening Core Java concepts
+* Practicing SQL queries
+* Building small web projects
+* Learning backend development step by step
 
 ---
 
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+    LinkedIn
+  </a> • 
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/surajbatchu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+    Email
+  </a> • 
+  <a href="https://github.com/surajbatchu">
+    GitHub
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Quote
+### ⚡ Quote
 
-> "Code is like humor — when you have to explain it, it’s bad."
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajbatchu&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
+> "Start where you are. Use what you have. Build what you can."
